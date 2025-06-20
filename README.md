@@ -34,7 +34,7 @@
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-khole)  
-📧 soham.kh@example.com
+📧 https://www.linkedin.com/in/soham-khole-2646121b1/
 
 ---
 
